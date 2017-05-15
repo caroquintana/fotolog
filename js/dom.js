@@ -1,5 +1,5 @@
    function agregarPosteo(){
-        var contenedor = documentElementById(contenedor-posteos)
+        var contenedor = documentElementById("contenedor-posteos");
     var elem_p = document.createElement('p');
     var elem_em = document.createElement('em');
     var elem_strong = document.createElement('strong');
